@@ -1,0 +1,122 @@
+[
+  {
+    "diametro": 34.0,
+    "galga": 36.0,
+    "metros_hora": 28.0,
+    "referencia": "JUPITER",
+    "metros_turno": 224.0,
+    "id": "6a8b85ffac55d4d28668d744",
+    "created_date": "2026-08-23T23:45:03.558000",
+    "updated_date": "2026-08-24T02:36:40.678000",
+    "created_by_id": "6a8b81f614d4e9ed9a46c711",
+    "is_sample": false
+  },
+  {
+    "diametro": 30.0,
+    "galga": 40.0,
+    "metros_hora": 46.75,
+    "referencia": "MERCURIO",
+    "metros_turno": 374.0,
+    "id": "6a8b85ffac55d4d28668d743",
+    "created_date": "2026-08-23T23:45:03.558000",
+    "updated_date": "2026-08-24T02:36:40.574000",
+    "created_by_id": "6a8b81f614d4e9ed9a46c711",
+    "is_sample": false
+  },
+  {
+    "diametro": 34.0,
+    "galga": 40.0,
+    "metros_hora": 37.0,
+    "referencia": "MARTE",
+    "metros_turno": 296.0,
+    "id": "6a8b85ffac55d4d28668d742",
+    "created_date": "2026-08-23T23:45:03.558000",
+    "updated_date": "2026-08-24T02:36:40.502000",
+    "created_by_id": "6a8b81f614d4e9ed9a46c711",
+    "is_sample": false
+  },
+  {
+    "diametro": 34.0,
+    "galga": 36.0,
+    "metros_hora": 45.0,
+    "referencia": "PRAGA",
+    "metros_turno": 360.0,
+    "id": "6a8b85ffac55d4d28668d741",
+    "created_date": "2026-08-23T23:45:03.558000",
+    "updated_date": "2026-08-24T02:36:40.401000",
+    "created_by_id": "6a8b81f614d4e9ed9a46c711",
+    "is_sample": false
+  },
+  {
+    "diametro": 32.0,
+    "galga": 28.0,
+    "metros_hora": 54.0,
+    "referencia": "VALTICA",
+    "metros_turno": 432.0,
+    "id": "6a8b85ffac55d4d28668d740",
+    "created_date": "2026-08-23T23:45:03.558000",
+    "updated_date": "2026-08-24T02:36:40.290000",
+    "created_by_id": "6a8b81f614d4e9ed9a46c711",
+    "is_sample": false
+  },
+  {
+    "diametro": 30.0,
+    "galga": 28.0,
+    "metros_hora": 59.0,
+    "referencia": "LUNA",
+    "metros_turno": 472.0,
+    "id": "6a8b85ffac55d4d28668d73f",
+    "created_date": "2026-08-23T23:45:03.558000",
+    "updated_date": "2026-08-24T02:36:40.218000",
+    "created_by_id": "6a8b81f614d4e9ed9a46c711",
+    "is_sample": false
+  },
+  {
+    "diametro": 34.0,
+    "galga": 36.0,
+    "metros_hora": 45.0,
+    "referencia": "COSMOS",
+    "metros_turno": 360.0,
+    "id": "6a8b85ffac55d4d28668d73e",
+    "created_date": "2026-08-23T23:45:03.558000",
+    "updated_date": "2026-08-24T02:36:40.148000",
+    "created_by_id": "6a8b81f614d4e9ed9a46c711",
+    "is_sample": false
+  },
+  {
+    "diametro": 30.0,
+    "galga": 24.0,
+    "metros_hora": 23.63,
+    "referencia": "HAITI",
+    "metros_turno": 189.0,
+    "id": "6a8b85ffac55d4d28668d73d",
+    "created_date": "2026-08-23T23:45:03.558000",
+    "updated_date": "2026-08-24T02:36:40.078000",
+    "created_by_id": "6a8b81f614d4e9ed9a46c711",
+    "is_sample": false
+  },
+  {
+    "diametro": 30.0,
+    "galga": 28.0,
+    "metros_hora": 57.38,
+    "referencia": "RUBI",
+    "metros_turno": 459.0,
+    "id": "6a8b85ffac55d4d28668d73c",
+    "created_date": "2026-08-23T23:45:03.558000",
+    "updated_date": "2026-08-24T02:36:39.998000",
+    "created_by_id": "6a8b81f614d4e9ed9a46c711",
+    "is_sample": false
+  },
+  {
+    "diametro": 32.0,
+    "galga": 28.0,
+    "metros_hora": 34.5,
+    "referencia": "PLUTON",
+    "metros_turno": 276.0,
+    "id": "6a8b85ffac55d4d28668d73b",
+    "created_date": "2026-08-23T23:45:03.558000",
+    "updated_date": "2026-08-24T02:36:39.890000",
+    "created_by_id": "6a8b81f614d4e9ed9a46c711",
+    "is_sample": false
+  }
+]

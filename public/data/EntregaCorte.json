@@ -1,0 +1,342 @@
+[
+  {
+    "planeacion_id": null,
+    "fecha": "2026-11-07",
+    "cantidad": 4342.0,
+    "id": "6af1c60f57de641ea7152f4f",
+    "created_date": "2026-11-09T13:09:35.506000",
+    "updated_date": "2026-11-09T13:09:35.506000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-11-06",
+    "cantidad": 3516.0,
+    "id": "6af1c5e1a762a8fa0366fb2c",
+    "created_date": "2026-11-09T13:08:49.254000",
+    "updated_date": "2026-11-09T13:08:49.254000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-11-05",
+    "cantidad": 5175.0,
+    "id": "6aedbe7ececba9c2b50703e0",
+    "created_date": "2026-11-06T11:48:14.369000",
+    "updated_date": "2026-11-06T11:48:14.369000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-11-04",
+    "cantidad": 3816.0,
+    "id": "6aedbe67efc36b470fac33f3",
+    "created_date": "2026-11-06T11:47:51.385000",
+    "updated_date": "2026-11-06T11:47:51.385000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-11-03",
+    "cantidad": 1422.0,
+    "id": "6aeb174c8fa25d0fc3866d8f",
+    "created_date": "2026-11-04T11:30:20.856000",
+    "updated_date": "2026-11-04T11:30:20.856000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-27",
+    "cantidad": 4489.0,
+    "id": "6ae9d9dbdbf93967b104885f",
+    "created_date": "2026-11-03T12:55:55.446000",
+    "updated_date": "2026-11-03T12:55:55.446000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-31",
+    "cantidad": 765.0,
+    "id": "6ae9d46276df07f35e80b027",
+    "created_date": "2026-11-03T12:32:34.559000",
+    "updated_date": "2026-11-03T12:32:34.559000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-30",
+    "cantidad": 840.0,
+    "id": "6ae9d43b636808bf1ec212b2",
+    "created_date": "2026-11-03T12:31:55.403000",
+    "updated_date": "2026-11-03T12:31:55.403000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-29",
+    "cantidad": 967.0,
+    "id": "6ae9d3af181196dd7d1986fe",
+    "created_date": "2026-11-03T12:29:35.791000",
+    "updated_date": "2026-11-03T12:29:35.791000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-28",
+    "cantidad": 1740.0,
+    "id": "6ae9d387ddf7e56d6b457cd7",
+    "created_date": "2026-11-03T12:28:55.300000",
+    "updated_date": "2026-11-03T12:28:55.300000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-26",
+    "cantidad": 3300.0,
+    "id": "6ae1ef8b5376a8166f59e2ff",
+    "created_date": "2026-10-28T12:50:19.450000",
+    "updated_date": "2026-10-28T12:50:19.450000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-23",
+    "cantidad": 1620.0,
+    "id": "6adf506e2dba99b82b78279c",
+    "created_date": "2026-10-26T13:06:54.803000",
+    "updated_date": "2026-10-26T13:06:54.803000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-22",
+    "cantidad": 550.0,
+    "id": "6adf3e57514f489c6e494225",
+    "created_date": "2026-10-26T11:49:43.384000",
+    "updated_date": "2026-10-26T11:49:43.384000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-21",
+    "cantidad": 2807.0,
+    "id": "6ada0c2ee5834c830ecf13f9",
+    "created_date": "2026-10-22T13:14:22.616000",
+    "updated_date": "2026-10-22T13:14:22.616000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-20",
+    "cantidad": 2865.0,
+    "id": "6ad8a800a57ca9d5d64851d2",
+    "created_date": "2026-10-21T11:54:40.040000",
+    "updated_date": "2026-10-21T11:54:40.040000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-19",
+    "cantidad": 6090.0,
+    "id": "6ad75ab21f346e346a67d25a",
+    "created_date": "2026-10-20T12:12:34.562000",
+    "updated_date": "2026-10-20T12:12:34.562000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-17",
+    "cantidad": 11630.0,
+    "id": "6ad61b3e145fce530360336b",
+    "created_date": "2026-10-19T13:29:34.981000",
+    "updated_date": "2026-10-19T13:29:34.981000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-16",
+    "cantidad": 12375.0,
+    "id": "6ad61964da25fcf7ed27ad8f",
+    "created_date": "2026-10-19T13:21:40.576000",
+    "updated_date": "2026-10-19T13:21:40.576000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-15",
+    "cantidad": 15298.0,
+    "id": "6ad6193b531fc8ff4f75948c",
+    "created_date": "2026-10-19T13:20:59.454000",
+    "updated_date": "2026-10-19T13:20:59.454000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-14",
+    "cantidad": 12866.0,
+    "id": "6ad61904b7e745c994b02bdf",
+    "created_date": "2026-10-19T13:20:04.860000",
+    "updated_date": "2026-10-19T13:20:04.860000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-13",
+    "cantidad": 12982.0,
+    "id": "6ad618efc162f0b1e5480eae",
+    "created_date": "2026-10-19T13:19:43.086000",
+    "updated_date": "2026-10-19T13:19:43.086000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-10",
+    "cantidad": 2600.0,
+    "id": "6ace24c505e3552a6ea9f1ab",
+    "created_date": "2026-10-13T12:32:05.768000",
+    "updated_date": "2026-10-13T12:32:05.768000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-09",
+    "cantidad": 6983.0,
+    "id": "6ace248015384634a82add40",
+    "created_date": "2026-10-13T12:30:56.786000",
+    "updated_date": "2026-10-13T12:30:56.786000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-08",
+    "cantidad": 6024.0,
+    "id": "6ac8d7c10d1e1a06337e0b0b",
+    "created_date": "2026-10-09T12:02:09.755000",
+    "updated_date": "2026-10-09T12:02:09.755000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-07",
+    "cantidad": 6353.0,
+    "id": "6ac7855699a13a70650de953",
+    "created_date": "2026-10-08T11:58:14.208000",
+    "updated_date": "2026-10-08T11:58:14.208000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-06",
+    "cantidad": 5512.0,
+    "id": "6ac63a24ef144e3ee5830a6e",
+    "created_date": "2026-10-07T12:25:08.367000",
+    "updated_date": "2026-10-07T12:25:08.367000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-05",
+    "cantidad": 5603.0,
+    "id": "6ac4df5d47ec94aa4367391a",
+    "created_date": "2026-10-06T11:45:33.772000",
+    "updated_date": "2026-10-06T11:45:33.772000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-04",
+    "cantidad": 6067.0,
+    "id": "6ac397497351d6f0bd34ad8b",
+    "created_date": "2026-10-05T12:25:45.557000",
+    "updated_date": "2026-10-05T12:25:45.557000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-03",
+    "cantidad": 2680.0,
+    "id": "6ac394a64ac442c843d08f92",
+    "created_date": "2026-10-05T12:14:30.567000",
+    "updated_date": "2026-10-05T12:14:30.567000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-02",
+    "cantidad": 5213.0,
+    "id": "6ac394732e0f3ebe8914955e",
+    "created_date": "2026-10-05T12:13:39.338000",
+    "updated_date": "2026-10-05T12:13:39.338000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-10-01",
+    "cantidad": 3164.0,
+    "id": "6ac394616b3153df293aafe2",
+    "created_date": "2026-10-05T12:13:21.676000",
+    "updated_date": "2026-10-05T12:13:21.676000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-09-30",
+    "cantidad": 3620.0,
+    "id": "6ac3943e9dd9fa7951854b4c",
+    "created_date": "2026-10-05T12:12:46.240000",
+    "updated_date": "2026-10-05T12:12:46.240000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-09-29",
+    "cantidad": 3310.0,
+    "id": "6ac3941d37972fcf3262d878",
+    "created_date": "2026-10-05T12:12:13.176000",
+    "updated_date": "2026-10-05T12:12:13.176000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  },
+  {
+    "planeacion_id": null,
+    "fecha": "2026-09-28",
+    "cantidad": 1470.0,
+    "id": "6ac394076327d0e9a4f37cd5",
+    "created_date": "2026-10-05T12:11:51.065000",
+    "updated_date": "2026-10-05T12:11:51.065000",
+    "created_by_id": "6a8b9298fca84a3dc9634609",
+    "is_sample": false
+  }
+]
